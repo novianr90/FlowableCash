@@ -1,7 +1,8 @@
-package id.novian.flowablecash
+package id.novian.flowablecash.view
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import id.novian.flowablecash.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
